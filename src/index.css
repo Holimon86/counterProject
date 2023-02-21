@@ -1,0 +1,88 @@
+body {
+  margin-bottom: 10px;
+  font-family:'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("./imgs/turksAndCaicos.jpeg");
+  background-size: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10%;
+  height: 20%;
+}
+
+.container-two {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10%;
+  padding-bottom: 50px;
+}
+
+.container-three {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.App {
+  margin-left: 350px;
+  margin-bottom: 0;
+  width: 40%;
+  height: 30%;
+  /*background-color: white;*/
+  /*border: 3px solid black;
+  border-radius: 20px;
+  background-image: url("./imgs/dollarDollarBillsYall.jpeg");*/
+  background-size: 100%;
+}
+
+button {
+  height: 35px;
+  width: auto;
+  transition-duration: 0.5s;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 252, 252);
+  border: 3px solid rgb(246, 251, 246);
+  text-shadow: 1px 0px 2px #f7faf7;
+  -webkit-box-shadow: 0px 0px 14px 10px #000000; 
+box-shadow: 0px 0px 10px 5px #000000;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
+
+h4 {
+  font-size: 70px;
+  color: rgb(255, 255, 255);
+  text-shadow: 5px 0px 0px #000000;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 100px;
+  margin-top: 5px;
+  color: rgb(239, 245, 243);
+  text-shadow: 6px 0px 5px #011002;
+}
+
+/*input {
+  border: 3px solid rgb(10, 10, 9);
+  border-radius: 5px;
+  text-shadow: 0px 0px 5px #ebeef1;
+}*/
+
