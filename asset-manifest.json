@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/counterProject/static/css/main.f525651f.css",
+    "main.js": "/counterProject/static/js/main.57095835.js",
+    "static/js/787.7e354dae.chunk.js": "/counterProject/static/js/787.7e354dae.chunk.js",
+    "static/media/turksAndCaicos.jpeg": "/counterProject/static/media/turksAndCaicos.3894ef84341eaa392882.jpeg",
+    "index.html": "/counterProject/index.html",
+    "main.f525651f.css.map": "/counterProject/static/css/main.f525651f.css.map",
+    "main.57095835.js.map": "/counterProject/static/js/main.57095835.js.map",
+    "787.7e354dae.chunk.js.map": "/counterProject/static/js/787.7e354dae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f525651f.css",
+    "static/js/main.57095835.js"
+  ]
+}
